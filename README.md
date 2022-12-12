@@ -10,3 +10,5 @@
 
 ## Issue
 - [Dokysp-Study](https://github.com/DokySp-study), [Dokysp-Study 목차](https://github.com/DokySp/DokySp-study) 등이 있는데 너무 분산되는 것이 아닌지...
+  - [Dokysp-Study 목차](https://github.com/DokySp/DokySp-study) 레포를 study 혹은 manual로 레포 이름 통합하고 
+  - 기존의 목차를 자동으로 관리해주는 CI 파이프라인을 새 블로그에 적용하는 방법
